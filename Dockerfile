@@ -1,4 +1,4 @@
-FROM latest:latest
+FROM ruby:latest
 
 RUN gem install aptly_cli
 
